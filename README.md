@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 
 <!--
 **Yanis-Kouidri/Yanis-Kouidri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm currently working on a Ph.D. between [Neusta](https://neusta.fr/) and [IRIT](https://www.irit.fr/) in Toulouse. The subject is data collection over wireless sensor network with data mule. [See more](https://yanis-kouidri.github.io/DMX/).
+
+I'm currently learning Astro to build the [v2](https://github.com/Yanis-Kouidri/personal-website-V2) of my [personal website](https://www.kouidri.fr).
+
+## Contact
+
+- Email: [yanis.kouidri@neusta.fr](mailto:yanis.kouidri@neusta.fr)
+- LinkedIn: [Yanis KOUIDRI](https://www.linkedin.com/in/yanis-kouidri/)
